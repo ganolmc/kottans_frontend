@@ -11,6 +11,6 @@ Great! Very nice and useful course about Git and Github!!!
 
 <h2>Task 2</h2>
 <ul>
-	<li><a href="task_02/version_control_with_git.jpg">Linux Command Line Basics</a></li>
-	<li><a href="task_02/github_&_collaboration.jpg">Configuring Linux Web Servers</a></li>
+	<li><a href="task_02/version_control_with_git.jpg">Vesrion control with git</a></li>
+	<li><a href="task_02/github_&_collaboration.jpg">GitHub & Collaboration</a></li>
 </ul>
