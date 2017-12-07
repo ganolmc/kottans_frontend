@@ -14,3 +14,8 @@ Great! Very nice and useful course about Git and Github!!!
 	<li><a href="task_02/version_control_with_git.jpg">Vesrion control with git</a></li>
 	<li><a href="task_02/github_&_collaboration.jpg">GitHub & Collaboration</a></li>
 </ul>
+
+<h2>Task 3</h2>
+<ul>
+	<li><a href="task_03/html_and_css_syntax.jpg">HTML and CSS Syntax</a></li>
+</ul>
