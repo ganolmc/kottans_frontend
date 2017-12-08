@@ -19,3 +19,8 @@ Great! Very nice and useful course about Git and Github!!!
 <ul>
 	<li><a href="task_03/html_and_css_syntax.jpg">HTML and CSS Syntax</a></li>
 </ul>
+
+<h2>Task 4</h2>
+<ul>
+	<li><a href="task_04/responsive_web_design_fundamentals.jpg">Responsive Web Design Fundamentals</a></li>
+</ul>
