@@ -24,3 +24,8 @@ Great! Very nice and useful course about Git and Github!!!
 <ul>
 	<li><a href="task_04/responsive_web_design_fundamentals.jpg">Responsive Web Design Fundamentals</a></li>
 </ul>
+
+<h2>Task 5</h2>
+<ul>
+	<li><a href="task_05/intro_to_javascript.jpg">Intro to JavaScript</a></li>
+</ul>
