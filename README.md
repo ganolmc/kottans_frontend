@@ -12,7 +12,7 @@ Great! Very nice and useful course about Git and Github!!!
 <h2>Task 2</h2>
 <ul>
 	<li><a href="task_02/version_control_with_git.jpg">Vesrion control with git</a></li>
-	<li><a href="task_02/github_&_collaboration.jpg">GitHub & Collaboration</a></li>
+	<li><a href="task_02/github_&_collaboration.jpg">GitHub &amp; Collaboration</a></li>
 </ul>
 
 <h2>Task 3</h2>
@@ -28,4 +28,9 @@ Great! Very nice and useful course about Git and Github!!!
 <h2>Task 5</h2>
 <ul>
 	<li><a href="task_05/intro_to_javascript.jpg">Intro to JavaScript</a></li>
+</ul>
+
+<h2>Task 6</h2>
+<ul>
+	<li><a href="task_06/object-oriented-javascript.jpg">Object-Oriented JavaScript</a></li>
 </ul>
