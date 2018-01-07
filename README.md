@@ -34,3 +34,8 @@ Great! Very nice and useful course about Git and Github!!!
 <ul>
 	<li><a href="task_06/object-oriented-javascript.jpg">Object-Oriented JavaScript</a></li>
 </ul>
+
+<h2>Task 7</h2>
+<ul>
+	<li><a href="task_07/offline-web-applications.jpg">Offline Web Applications</a></li>
+</ul>
